@@ -1,0 +1,43 @@
+a[href="#About"]{
+
+    color:aquamarine;
+}
+a[href="#Contact"]{
+    color:aquamarine;
+}
+a[href="#home"] {
+    color:aquamarine;
+}
+
+a[href="sci"]{
+
+    color:brown;
+}
+a[href="Math"]{
+    color:brown;
+}
+
+a[href="okc"] {
+    color:green;
+}
+
+a[href="Seahawks"]{
+    color:green;
+}
+
+a[href="hale"]{
+    color:red
+}
+a[href="wash"]{
+    color:red;
+}
+
+
+
+
+
+
+
+
+    
+
